@@ -1,7 +1,7 @@
 [project]
 name = "mcp-server"
 version = "0.1.0"
-description = "Coffee shop chatbot built with Python, FastAPI, and MCP, featuring an MCP client and server for handling customer queries and coffee shop orders."
+description = "MCP server for the Coffee Shop Chatbot, exposing coffee shop tools, its functionality and resources to MCP clients."
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [

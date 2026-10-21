@@ -1,7 +1,7 @@
 [project]
 name = "mcp-client"
 version = "0.1.0"
-description = "Add your description here"
+description = "Coffee shop chatbot built with Python, FastAPI, and MCP, featuring an MCP client and server for handling customer queries and coffee shop orders."
 requires-python = ">=3.14"
 dependencies = [
     "asyncpg>=0.31.0",
