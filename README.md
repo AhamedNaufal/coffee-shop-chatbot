@@ -119,8 +119,10 @@ Run these steps once per service.
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repository-url>
-cd <repository-folder>
+git clone https://github.com/AhamedNaufal/coffee-shop-chatbot.git
+
+cd coffee-shop-chatbot
+
 ```
 
 ### 2. Install dependencies
